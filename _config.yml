@@ -1,4 +1,4 @@
 name: acislik github page
-title: github page of acislik
+#title: github page of acislik
 markdown: kramdown 
 theme: jekyll-theme-minimal
