@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 ---
 
 ## Hey You!
 Yes YOU!
 
-Listen to 
+Listen to me
