@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 ---
 
-# Hey You!
+## Hey You!
 Yes YOU!
